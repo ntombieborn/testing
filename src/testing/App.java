@@ -16,6 +16,7 @@ public class App {
 	
 	public void runner(){
 		System.out.println("go far");
+		System.out.println("this is just a great way of working together.");
 	}
 
 }
