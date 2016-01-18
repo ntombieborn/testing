@@ -8,6 +8,7 @@ public class App {
 		App j = new App();
 		j.run();
 		j.runner();
+		j.test();
 	}
 	
 	public void run(){
@@ -19,4 +20,8 @@ public class App {
 		System.out.println("this is just a great way of working together.");
 	}
 
+	public void test(){
+		System.out.println("Git Testing");
+	
+	}
 }
